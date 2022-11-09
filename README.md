@@ -9,3 +9,4 @@ Eleventy starter template that uses Tailwind CSS and Alpine.js
 - upgrade sitemap
 - add sitewide search
 - add comments area
+- add NetlifyCMS
